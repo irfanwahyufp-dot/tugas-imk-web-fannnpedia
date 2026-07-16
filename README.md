@@ -1,6 +1,6 @@
-#  Fannnpedia - Web Jasa Joki MLBB & Bantuan Tugas
+#  Fannnpedia - Web Jasa Joki MLBB & Joki Tugas dan Design
 
-Fannnpedia adalah prototipe aplikasi berbasis web yang dirancang untuk memenuhi kebutuhan pengguna dalam ekosistem gaming (Jasa Joki Mobile Legends: Bang Bang) serta bantuan penyelesaian tugas-tugas akademik. Project ini dibangun khusus untuk memenuhi penilaian Ujian Akhir Semester (UAS) mata kuliah **Interaksi Manusia dan Komputer (IMK)**.
+Fannnpedia adalah prototipe aplikasi berbasis web yang dirancang untuk memenuhi kebutuhan pengguna dalam ekosistem games (Jasa Joki Mobile Legends: Bang Bang) serta bantuan penyelesaian tugas-tugas akademik dan design. Project ini dibangun khusus untuk memenuhi penilaian Ujian Akhir Semester (UAS) mata kuliah **Interaksi Manusia dan Komputer (IMK)**.
 
 #  Tautan Aplikasi
 * **Live Demo (Hosting):** [http://fannnpedia.site.je](http://fannnpedia.site.je)
@@ -23,4 +23,4 @@ Aplikasi ini dirancang dengan pendekatan **User-Centered Design (UCD)** untuk me
 * **Framework Utama:** React.js (TypeScript)
 * **Styling & UI:** Tailwind CSS
 * **Build Tool:** Vite
-* **Deployment & Hosting:** InfinityFree & Vercel
+* **Deployment & Hosting:** InfinityFree
