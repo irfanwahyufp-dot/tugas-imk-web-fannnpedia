@@ -1,0 +1,6 @@
+{
+  "name": "Fannpedia - Jasa Joki & Tugas",
+  "description": "Website Jasa Joki Mobile Legends dan Tugas Akademik Murah, Aman, dan Terpercaya oleh tim profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
