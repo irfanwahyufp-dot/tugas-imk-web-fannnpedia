@@ -1,14 +1,13 @@
-# 🚀 Fannnpedia - Web Jasa Joki MLBB & Bantuan Tugas
+#  Fannnpedia - Web Jasa Joki MLBB & Bantuan Tugas
 
 Fannnpedia adalah prototipe aplikasi berbasis web yang dirancang untuk memenuhi kebutuhan pengguna dalam ekosistem gaming (Jasa Joki Mobile Legends: Bang Bang) serta bantuan penyelesaian tugas-tugas akademik. Project ini dibangun khusus untuk memenuhi penilaian Ujian Akhir Semester (UAS) mata kuliah **Interaksi Manusia dan Komputer (IMK)**.
 
-## 🔗 Tautan Aplikasi
+#  Tautan Aplikasi
 * **Live Demo (Hosting):** [http://fannnpedia.site.je](http://fannnpedia.site.je)
-* **Backup Deployment:** [tugas-imk-web-fannnpedia.vercel.app](https://tugas-imk-web-fannnpedia.vercel.app)
 
 ---
 
-## 💻 Fitur Utama & Implementasi Prinsip IMK
+## Fitur Utama & Implementasi Prinsip IMK
 
 Aplikasi ini dirancang dengan pendekatan **User-Centered Design (UCD)** untuk memastikan kenyamanan pengguna (*User Satisfaction*) dan kemudahan penggunaan (*Usability*):
 
